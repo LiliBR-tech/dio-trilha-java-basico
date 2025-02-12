@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Simulando+Conta+Bancária+via+Terminal+/+Console)](https://git.io/typing-svg)
  
-  <img src="https://github.com/LiliBR-tech/dio-trilha-java-basico-origin/blob/main/assets/Java-Logo.png" 
+  <img src="https://github.com/LiliBR-tech/dio-trilha-java-basico/blob/main/assets/Java-Logo.png" 
    alt="db3c90cd-1ead-4209-82fd-bb60b9b8e58d" min-width="100px" max-width="100px" width="100px" align="right"> 
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b87814&size=35&center=true&vCenter=true&width=1000&lines=🔥+Codando+...)](https://git.io/typing-svg)
