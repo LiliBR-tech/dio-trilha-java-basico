@@ -1,0 +1,20 @@
+# Diretórios de build/compilação
+target/
+bin/
+out/
+
+# Arquivos de IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+*.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos compilados Java
+*.class
